@@ -1,2 +1,2 @@
-# portfolio-j-s
+# Portfolio-j-s
 My portfolio 
