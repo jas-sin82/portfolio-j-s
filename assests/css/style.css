@@ -502,7 +502,7 @@ section .heading-project-1 > h4 {
 /*--parallex-effect---*/
 
 .effect-image {
-  background-image: url("/assests/images/javascript-image.png");
+  background-image: url("assests/images/javascript-image.png");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -513,7 +513,7 @@ section .heading-project-1 > h4 {
 }
 
 .effect-image-1 {
-  background-image: url("/assests/images/my-work-space.jpg");
+  background-image: url("assests/images/my-work-space.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -879,7 +879,7 @@ footer p {
 
 @media (max-width: 768px) {
   body {
-    background-image: url("/assests/images/jass-5\ copy.jpg");
+    background-image: url("assests/images/jass-5\ copy.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -1210,7 +1210,7 @@ footer p {
   }
 
   .effect-image-1 {
-    background-image: url("/assests/images/javascript-image.png");
+    background-image: url("assests/images/javascript-image.png");
     min-height: 400px;
     background-attachment: fixed;
     background-position: center;
